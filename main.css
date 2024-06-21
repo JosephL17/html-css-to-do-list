@@ -1,0 +1,31 @@
+#title {
+    font-size: larger;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+
+
+header {
+    font-style: oblique;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+#first {
+    text-decoration: underline;
+    background-color: greenyellow;
+    list-style: square;
+    
+}
+
+#parent {
+    display: flex;
+    justify-content: center; /* Center items horizontally */
+    align-items: center; /* Center items vertically, if needed */
+    height: 100%; /* Optional: Set a height to center vertically */
+}
