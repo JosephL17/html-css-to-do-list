@@ -1,5 +1,5 @@
 
-    // Place all your code inside this function
+    
     const addTask = (taskDescription) => {
         // Create a new <li> element
         const task = document.createElement("li");
